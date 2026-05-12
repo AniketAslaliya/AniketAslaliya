@@ -113,17 +113,6 @@ I write about AI, product thinking, and things I'm figuring out while building:
 - 📖 [Blog — aniketaslaliya.dev/blog](https://www.aniketaslaliya.dev/blog)
 - 🔬 [How dangerous could a cyber-capable AI model become?](https://www.aniketaslaliya.dev/blog/anthropic-mythos-model-risk)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketAslaliya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketAslaliya&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
-
-</div>
 
 ---
 
