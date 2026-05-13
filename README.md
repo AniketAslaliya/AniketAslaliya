@@ -91,9 +91,9 @@ After GRPO training: HIGH confidence dropped from ~82% → ~44%. The model learn
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AniketAslaliya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+<img src="https://github-readme-stats.vercel.app/api?username=AniketAslaliya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
 &nbsp;&nbsp;
-![Streak](https://streak-stats.demolab.com?user=AniketAslaliya&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
+<img src="https://streak-stats.demolab.com?user=AniketAslaliya&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" height="160" alt="GitHub Streak" />
 
 </div>
 
