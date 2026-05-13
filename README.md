@@ -87,13 +87,14 @@ After GRPO training: HIGH confidence dropped from ~82% → ~44%. The model learn
 
 ---
 
+
 ### 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AniketAslaliya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=AniketAslaliya&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" height="160" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniketAslaliya&theme=github_dark" width="100%" alt="GitHub Activity" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AniketAslaliya&theme=github_dark" height="160" alt="Top Languages" />&nbsp;<img src="https://streak-stats.demolab.com?user=AniketAslaliya&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" height="160" alt="GitHub Streak" />
 
 </div>
 
